@@ -1,0 +1,59 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #4e6e81;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 5px 0 #15191b;
+  font-size: 4rem;
+  color: #eeeeee;
+}
+
+h3 {
+  font-size: 2rem;
+  color: #f9dbbb;
+  font-family: "Roboto", sans-serif;
+}
+h4 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f9dbbb;
+}
+.btn {
+  display: inline;
+  font-size: 1rem;
+  text-align: center;
+  padding: 0.8rem;
+  border-radius: 1rem;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
+
+.btn_new {
+  margin-top: 1rem;
+}
+
+img {
+  width: 80%;
+  margin-bottom: 2rem;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
